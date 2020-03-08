@@ -91,7 +91,8 @@ body {
   font-weight: 500;
 }
 
-.intro p {
+.intro p,
+.portfolio a {
   margin: 0 0 32px;
 }
 
